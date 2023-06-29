@@ -1092,7 +1092,6 @@ class PartyMeta(MetaBase):
             }),
             'Default:ZoneInstanceId_s': '',
             'Default:SpectateAPartyMemberAvailable_b': 'false',
-            'Default:TheaterId_s': '',
             'Default:TileStates_j': json.dumps({
                 'TileStates': [],
             }),
